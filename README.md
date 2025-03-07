@@ -61,9 +61,7 @@ This project successfully integrated the Google Contacts API with a Spring Boot 
 
 
 
-## Developer Profiles  
-Meet the amazing developers behind!  
-
+## Developer Profiles   
 - **[Alyssa Blanche S. Alivio](https://github.com/OliGwapa)**  
 ---
 
