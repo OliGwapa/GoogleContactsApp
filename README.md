@@ -1,6 +1,6 @@
 # ![image](https://github.com/user-attachments/assets/154dafe4-0a92-43fc-a77e-0ca448ef1408) Google-Contacts-Integration
 
-# Google Contacts API Integration with Spring Boot and Thymeleaf
+## Google Contacts API Integration with Spring Boot and Thymeleaf
 
 ## Objective
 The objective of this task was to integrate the Google Contacts (People) API into a Spring Boot application with a Thymeleaf-based user interface. The application allows users to authenticate via Google, retrieve their contact lists, and perform CRUD (Create, Read, Update, Delete) operations on their Google Contacts.
